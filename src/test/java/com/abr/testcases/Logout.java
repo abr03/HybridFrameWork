@@ -11,7 +11,7 @@ public class Logout {
 	
 	@Test
 	public void doLogout() {
-		
+		System.out.println(" this is for test");
 	}
 
 }

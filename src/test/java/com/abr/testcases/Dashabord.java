@@ -6,7 +6,9 @@ public class Dashabord {
 
 	
 	@Test
-	public void TestDashabord() {
+	
+	
+	public void Dashabord() {
 		System.out.println("This is Dashabord");
 	}
 }

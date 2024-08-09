@@ -8,7 +8,7 @@ public class Dashabord {
 	@Test
 	
 	
-	public void Dashabord() {
+	public void Dashabordfunctinality() {
 		System.out.println("This is Dashabord");
 	}
 }
